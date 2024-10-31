@@ -1,6 +1,7 @@
 ## UNILEVER CANTEEN ORDERING SYSTEM
 
 ![canteen office](https://github.com/user-attachments/assets/6b174bd6-e66d-44e4-94b7-88ba5e3d39c5)
+![image](https://github.com/user-attachments/assets/4cd65405-4ff3-4396-9535-af65fc462f71)
 
 ## TABLE OF CONTENT
 - Tasks
